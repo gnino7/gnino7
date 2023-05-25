@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gnino7
 - 👀 I’m interested in making games and trying to code a better world
-- 🌱 I’m currently programing in C#, C++, HTML, Java and Python
+- 🌱 Coding in C#, C++, HTML, Java and Python
 - 🏢 Working as an Infrastructure Analyst @ AleSat Combustíveis
 - 📫 How to reach me gabriel.nino70@outlook.com
 
